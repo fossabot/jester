@@ -1,4 +1,6 @@
 # jester
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3c256f3e-070c-4520-bc99-d864b832fa68.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/jester?orgId=320408544746)  
 [![CircleCI Status](https://circleci.com/gh/scotiabank/jester.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/scotiabank/jester)
 
 Jester DRYs up your Jest + React snapshot code.
