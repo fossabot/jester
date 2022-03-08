@@ -1,5 +1,6 @@
 # jester
 [![CircleCI Status](https://circleci.com/gh/scotiabank/jester.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/scotiabank/jester)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjsoehner%2Fjester.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjsoehner%2Fjester?ref=badge_shield)
 
 Jester DRYs up your Jest + React snapshot code.
 
@@ -51,3 +52,7 @@ This repository is a monorepo that we manage using [Lerna](https://github.com/le
 ## Contributing
 
 #### Scotiabank is committed to enriching the developer community through open source collaboration. We’ve just begun this exciting journey with all of you! At present, we’re only accepting contributions from individuals with whom we have a prior agreement. Stay tuned for more updates from us!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjsoehner%2Fjester.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjsoehner%2Fjester?ref=badge_large)
